@@ -9,8 +9,8 @@ You have to write two arguments when you starting the program
 2) name of file where you wanna save the data in csv file
 
 ## Libraries used in this program
-1)bs4 - to install do ```pip install beautifulsoup4==4.12.3``` 
-2)requests - to install do ```pip install requests==2.31.0``` 
+1)**bs4** - to install do ```pip install beautifulsoup4==4.12.3``` 
+2)**requests** - to install do ```pip install requests==2.31.0``` 
 
 ## 
 
