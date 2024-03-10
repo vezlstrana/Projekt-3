@@ -11,4 +11,4 @@ You have to write two arguments when you starting the program
 ## Libraries used in this program
 1) **bs4** - to install do ```pip install beautifulsoup4==4.12.3``` 
 1) **requests** - to install do ```pip install requests==2.31.0```
-1) other libraries you will find in file requirments
+1) other libraries you will find in file *requirments*
